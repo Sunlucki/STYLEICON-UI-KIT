@@ -1,4 +1,4 @@
-# STYLEICO UI SET
+# STYLEICON UI SET
 
 A curated collection of reusable, animated React UI components built with **Framer Motion**, **Tailwind CSS**, and **Lucide Icons**.
 
